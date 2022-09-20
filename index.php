@@ -493,11 +493,11 @@
                         </div>
                          <div class="col-md-3">
                             <h5 class="text-dark mb-3"><i class="fa fa-link" aria-hidden="true"></i> Quick Links</h5>
-                            <p class="small text-dark small-line-height"> <a style="text-decoration:none;"
+                            <p class="small text-dark small-line-height"> <a style="text-decoration:none;" target="_blank"
                                     href="https://www.iitrpr.ac.in"> Official Website</a></p>
-                            <p class="small text-dark small-line-height"> <a style="text-decoration:none;"
+                            <p class="small text-dark small-line-height"> <a style="text-decoration:none;" target="_blank"
                                     href="https://www.iitrpr.ac.in/student-council/"> Student Council</a></p>
-                            <p class="small text-dark small-line-height"> <a style="text-decoration:none;"
+                            <p class="small text-dark small-line-height"> <a style="text-decoration:none;" target="_blank"
                                     href="https://www.iitrpr.ac.in/ismp"> ISMP</a></p>
                         </div>
                     </div>

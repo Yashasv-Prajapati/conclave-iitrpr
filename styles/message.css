@@ -1,0 +1,101 @@
+body
+{
+	padding-top:9rem;
+}
+
+.testimonial {
+    padding: 20px 20px 20px 90px;
+    margin: 10px 20px 50px 55px;
+    border-left: 2px solid #ae483a;
+    position: relative;
+}
+.testimonial .pic{
+	width: 100px;
+	height: auto;
+	border: 2px solid #ae483a;
+	overflow: hidden;
+	position: absolute;
+	top: -70px;
+	left: -50px;
+}
+.testimonial .pic img{
+	width: 100%;
+	height: auto;
+	object-fit: contain;
+}
+
+.testimonial .title{
+	font-size: 30px;
+	font-weight: 600;
+	color: #71334a;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin: 0 0 7px 0;
+}
+
+.testimonial .post{
+	display: block;
+	font-size: 22px;
+	color: #ae483a;
+	text-transform: capitalize;
+}
+
+.testimonial .description{
+	font-size: 17px;
+	color: #ab9c99;
+	line-height: 28px;
+}
+
+.testimonial:after {
+    content: "";
+    border-bottom: 25px solid #ae483a;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    position: absolute;
+    bottom: -24px;
+    left: -26px;
+}
+.height-give
+{
+	height:80vh;
+}
+
+.col{
+	position: relative;
+	text-align: center;
+	margin-bottom: 20px;
+}	
+
+@media screen and (max-width: 480px){
+	.testimonial .description{
+		font-size: 14px;
+		color: #ab9c99;
+		line-height: 28px;
+	}
+
+	.col{
+		text-align: left;
+		position: relative;
+		margin-left: 120px;
+	}	
+
+	.testimonial {
+		padding: 10px 10px 10px 30px; /* trbl */
+		margin: 10px 20px 50px 55px;
+		border-left: 2px solid #ae483a;
+		position: relative;
+	}
+	.testimonial .title{
+		font-size: 25px;
+		font-weight: 600;
+		color: #71334a;
+		padding: 0 0 0 30px;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		margin: 0 0 7px 0;
+	}
+	.testimonial .post{
+		padding: 0 0 15px 30px;
+	}
+	
+}

@@ -68,7 +68,7 @@
 
 
 	<header class="cd-main-header text-center flex flex-column flex-center">
-    <h1>13th May 2022</h1>
+    <h1>14th October 2022</h1>
   </header>
 
   <section class="cd-timeline js-cd-timeline">
@@ -191,7 +191,7 @@
 <!-- Next Day -->
 
 	<header class="cd-main-header text-center flex flex-column flex-center">
-    <h1>14th May 2022</h1>
+    <h1>15th October 2022</h1>
   </header>
 
   <section class="cd-timeline js-cd-timeline">
@@ -278,7 +278,7 @@
 
 
 	<header class="cd-main-header text-center flex flex-column flex-center">
-    <h1>15th May 2022</h1>
+    <h1>16th October 2022</h1>
   </header>
 
   <section class="cd-timeline js-cd-timeline">

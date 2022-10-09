@@ -103,10 +103,11 @@ body{
 
 .background-img {
   content: '';
-  background: url("../images/home-bg2.png");
+  background: url("../images/prelude.png");
   background-position: center;
   height: 100vh;
   width: 100vw;
+  backdrop-filter:opacity(40%);
   background-repeat: no-repeat;
   background-size: cover;
   
@@ -120,13 +121,18 @@ body{
   background-size: cover;
 }
 
+.cent-prelude{
+
+  bottom: 100px;
+}
+
 .cent {
   display: grid;
   align-content: center;
-  /* justify-content: center; */
   align-items: center;
+  right: 10px;
   justify-items: center;
-  bottom: 50px;
+  bottom:50px;
 }
 
 .heading {
@@ -146,8 +152,8 @@ body{
   margin-top: 1rem;
   align-items: center;
   padding: 0.6rem 2.4rem;
-  color: white !important;
-  font-weight: 500;
+  color: rgb(214, 213, 213) !important;
+  font-weight: bold;
   font-size: larger;
   border-radius: 30px;
 }
@@ -172,6 +178,7 @@ body{
   content: "";
   background-image: url('../images/home-bg2.png');
   background-size: cover;
+  opacity: 0.5;
   background-position: center;
   position: absolute;
   top: 0px;
@@ -373,7 +380,7 @@ body{
 	.bell-1::before
 	{
 		content:'';
-		background:url('../images/dark_blue.webp');
+		background:url('../images/dark_blue.png');
 		position:absolute;
 		top:7%;
 		left:-15rem;
@@ -395,7 +402,7 @@ body{
 	.bell-2::before
 	{
 		content:'';
-		background:url('../images/BLUE.webp');
+		background:url('../images/BLUE.png');
 		position:absolute;
 		top:7%;
 		left:-15rem;
@@ -421,7 +428,7 @@ body{
   .bell-3::before
 	{
     content:'';
-		background:url('../images/purple.webp');
+		background:url('../images/purple.png');
 		position:absolute;
 		top:7%;
 		left:-15rem;
@@ -444,7 +451,7 @@ body{
   .bell-4::before
 	{
     content:'';
-		background:url('../images/green.webp');
+		background:url('../images/green.png');
 		position:absolute;
 		top:7%;
 		left:-15rem;

@@ -76,7 +76,7 @@
                         We envision involving the student leaders to start conversations and the policymakers to build a
                         conducive environment that will benefit the country in the long run.
                     </div>
-                    <div class="dates-layout">DATES: 14-16 October '22</div>
+                    <div class="dates-layout">14-15-16 October '22</div>
                     <div class=" my-3" style="font-size:medium;" id="theme">
                         <b>Theme</b> : To bridge the gap between graduate and undergraduate technocrats
                     </div>
@@ -109,9 +109,9 @@
         <div class="container-fluid">
             <div class="row justify-content-evenly my-5">
                 <div class="col-md-5 w3-animate-left"></div>
-                <div class="col-md-6 cent w3-animate-right">
+                <div class="col-md-6 cent-prelude w3-animate-right">
                     <div class="heading">PRELUDE</div>
-                    <div class="prelude-content my-3" style="text-align: justify">
+                    <div class="prelude-content my-3" id = "prelude-content" style="text-align: justify">
                         <p>
                             The name of IITs is synonymous with excellence and innovation.
                             The exchange of ideas and knowledge here, among the keen to
@@ -123,24 +123,27 @@
                             The leadership summit aims to shed light on the challenges
                             students face due to the rapidly changing socio-educational
                             frameworks and put forward resolutions that would help the
-                            students excel in the face of this colossal paradigm shift. By
+                            students excel in the face of this colossal paradigm shift. 
+                            
+                        </p>
+                        
+                        <p id = "read-more-content">
+                            By
                             engaging in discussion and brainstorming reforms, we can keep up
                             with the trends and lead the other institutes to do the same.
-                        </p>
-                        <p>
                             As student leaders, we aim to formulate solutions that can be
                             implemented across all institutions with the help of our
                             ministry since it is our duty, as one of the premier institutes
                             of the nation, to benefit every individual that faces the same
                             challenge.
-                        </p>
-                        <p>
+
                             The objective of this three-day leadership summit is to bridge
                             the gap between the UG and the PG students in our institutes. We
                             intend to put forward the concerns of the students to the
                             Ministry of Education to include the highest authorities in the
                             thick of things
                         </p>
+                        <a style="color:blue;cursor:pointer" onload = "InitializeButton()" id = "read-more" onclick = "ReadMore">Read More</a>
                     </div>
                 </div>
             </div>
@@ -507,7 +510,6 @@
     </section>
 
     <script src="script/nav.js"></script>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 

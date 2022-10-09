@@ -134,7 +134,50 @@
             </div>
         </div>
     </nav>
-
+    	<!--PATRONS-->
+	<div>
+		<div class="page-sticky-head-holder">
+			<div class="page-sticky-head">
+				PATRONS
+			</div>
+		</div>
+		<div class="container" style="margin-top:110px;">
+			<div class="row">
+				<div class="col-md-3 col-1">
+				</div>
+				<div class="col-md-3 col-5">
+					<div class="our-team">
+						<div class="pic">
+							<img src='./images/bog.jpeg' alt="">
+							<div class='hidden-contact' style="margin-left:22%;">
+								<!--<i class="fa fa-envelope" aria-hidden='true'></i><br>pps@iitrpr.ac.in<br>-->
+							</div>	
+						</div>
+						<div class='detail'>
+							<div class='title'>Dr. K. Radhakrishnan</div>
+							<div class='post'>Chairperson, BoG</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-5">
+					<div class="our-team">
+						<div class="pic">
+							<img src='./images/ahuja.jpg' alt="">
+							<div class='hidden-contact' style="margin-left:16%;">
+								<!--<i class="fa fa-envelope" aria-hidden='true'></i><br>deansa@iitrpr.ac.in<br>-->
+							</div>	
+						</div>
+						<div class='detail'>
+							<div class='title'>Rajeev Ahuja</div>
+							<div class='post'>Director</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-1">
+				</div>
+			</div>
+		</div>
+	</div>
 	<div>
 		<div class="page-sticky-head-holder">
 			<div class="page-sticky-head">
@@ -257,20 +300,6 @@
 				<div class="col-md-2 col-6">
 					<div class="our-team">
 						<div class="pic">
-							<img src='./images/vedant.jpeg' alt="">
-							<div class='hidden-contact'>
-								<i class="fa fa-envelope" aria-hidden='true'></i><br>2020eeb1219@iitrpr.ac.in<br>
-							</div>	
-						</div>
-						<div class='detail'>
-							<div class='title'>Vedant Sati</div>
-							<div class='post'>Sponsorship Head</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-2 col-6">
-					<div class="our-team">
-						<div class="pic">
 							<img src='./images/prachi.png' alt="">
 							<div class='hidden-contact'>
 								<i class="fa fa-envelope" aria-hidden='true'></i><br>2020eeb1048@iitrpr.ac.in<br>
@@ -292,7 +321,36 @@
 						</div>
 						<div class='detail'>
 							<div class='title'>Simarpreet Kaur</div>
-							<div class='post'>PHD Representative</div>
+							<div class='post'>Content Team Head</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-2 col-6">
+					<div class="our-team">
+						<div class="pic">
+							<img src='./images/tiya.png' alt="">
+							<div class='hidden-contact'>
+								<i class="fa fa-envelope" aria-hidden='true'></i><br>2020eeb1213@iitrpr.ac.in<br>
+							</div>	
+						</div>
+						<div class='detail'>
+							<div class='title'>Tiya Jain</div>
+							<div class='post'>Content Team Head</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-2 col-6">
+					<div class="our-team">
+						<div class="pic">
+							<img src='./images/vedant.jpeg' alt="">
+							<div class='hidden-contact'>
+								<i class="fa fa-envelope" aria-hidden='true'></i><br>2020eeb1219@iitrpr.ac.in<br>
+							</div>	
+						</div>
+						<div class='detail'>
+							<div class='title'>Vedant Sati</div>
+							<div class='post'>Sponsorship Head</div>
 						</div>
 					</div>
 				</div>
@@ -310,20 +368,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-2 col-6">
-					<div class="our-team">
-						<div class="pic">
-							<img src='./images/tiya.png' alt="">
-							<div class='hidden-contact'>
-								<i class="fa fa-envelope" aria-hidden='true'></i><br>2020eeb1213@iitrpr.ac.in<br>
-							</div>	
-						</div>
-						<div class='detail'>
-							<div class='title'>Tiya Jain</div>
-							<div class='post'>Content Team Head</div>
-						</div>
-					</div>
-				</div>
+				
 				<div class="col-md-2 blank-col">
 				</div>
 				<div class="col-md-2 col-6">
@@ -368,20 +413,21 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-2 col-12">
+				<div class="col-md-2 col-6">
 					<div class="our-team">
 						<div class="pic">
-							<img src='./images/rahul.png' alt="">
+							<img src='./images/rohan.png' alt="">
 							<div class='hidden-contact'>
-								<i class="fa fa-envelope" aria-hidden='true'></i><br>2020mcb1244@iitrpr.ac.in<br>
+								<i class="fa fa-envelope" aria-hidden='true'></i><br>2021eeb1313@iitrpr.ac.in<br>
 							</div>	
 						</div>
 						<div class='detail'>
-							<div class='title'>Rahul</div>
-							<div class='post'>Video Editing Head</div>
+							<div class='title'>Rohan Nijhawan</div>
+							<div class='post'>Moderators' Head</div>
 						</div>
 					</div>
 				</div>
+				
 			</div>
 		</div>
 	</div>
@@ -481,13 +527,13 @@
 				<div class="col-md-3 col-6">
 					<div class="our-team">
 						<div class="pic">
-							<img src='./images/rohan.png' alt="">
+							<img src='./images/rahul.png' alt="">
 							<div class='hidden-contact'>
-								<i class="fa fa-envelope" aria-hidden='true'></i><br>2021eeb1313@iitrpr.ac.in<br>
+								<i class="fa fa-envelope" aria-hidden='true'></i><br>2020mcb1244@iitrpr.ac.in<br>
 							</div>	
 						</div>
 						<div class='detail'>
-							<div class='title'>Rohan Nijhawan</div>
+							<div class='title'>Rahul</div>							
 						</div>
 					</div>
 				</div>
@@ -593,6 +639,19 @@
 						</div>
 						<div class='detail'>
 							<div class='title'>Sacchidanad Kushwaha</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-6">
+					<div class="our-team">
+						<div class="pic">
+							<img src='./images/kirti.jpg' alt="">
+							<div class='hidden-contact'>
+								<!--<i class="fa fa-envelope" aria-hidden='true'></i><br>2020eeb1257@iitrpr.ac.in<br>-->
+							</div>	
+						</div>
+						<div class='detail'>
+							<div class='title'>Kirti Singh</div>
 						</div>
 					</div>
 				</div>

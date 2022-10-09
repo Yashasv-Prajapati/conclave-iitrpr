@@ -93,13 +93,13 @@
           <h2>Inauguration</h2>
           
           <div class="flex justify-between items-center">
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">11:00 - 13:00</span>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">11:00 - 12:30</span>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
+        <div class="cd-timeline__img cd-timeline__img--location">
           <img src="images/schedule/food.png" alt="Picture">
         </div> <!-- cd-timeline__img -->
 
@@ -108,54 +108,54 @@
 
           <div class="flex justify-between items-center">
           
-          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">13:00 - 15:00</span>
+          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">12:30 - 14:00</span>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
+        <div class="cd-timeline__img cd-timeline__img--picture">
           <img src="images/schedule/friend.png" alt="Location">
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
           <h2 align = "center"> Discussion Session 1 </h2>
 
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">15:00 - 16:15</span>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="images/schedule/coffee-cup.png" alt="Location">
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2 align = "center">Tea Break</h2>
-          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">16:15 - 16:45</span>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">14:00 - 15:30</span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--movie">
-          <img src="images/schedule/friend.png" alt="Movie">
+          <img src="images/schedule/coffee-cup.png" alt="Location">
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2 align = "center">Discussion Session 2</h2>
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">16:45 - 18:00</span>
-
+          <h2 align = "center">Tea Break</h2>
+          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">15:30 - 16:00</span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="images/schedule/friend.png" alt="Movie">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2 align = "center">Discussion Session 2</h2>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">16:00 - 17:30</span>
+
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
           <img src="images/schedule/tea-cup.png" alt="Location">
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
           <h2 align = "center">High tea</h2>
-          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">18:00 - 19:00</span>
+          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">17:30 - 18:30</span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -167,7 +167,7 @@
 
         <div class="cd-timeline__content text-component">
           <h2 align = "center">Campus Tour</h2>
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">19:00 - 20:30</span>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">18:30 - 20:00</span>
 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -179,7 +179,19 @@
 
         <div class="cd-timeline__content text-component">
           <h2 align = "center">Dinner</h2>
-          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">20:30 - 22:00</span>
+          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">20:00 - 21:30</span>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+	
+	<div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
+          <img src="images/schedule/mirror-ball.png" alt="Movie">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2 align = "center">Cultural Program</h2>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">21:30 - 22:30</span>
+
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -197,18 +209,18 @@
   <section class="cd-timeline js-cd-timeline">
     <div class="container max-width-lg cd-timeline__container">
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
+        <div class="cd-timeline__img cd-timeline__img--movie">
           <img src="images/schedule/breakfast.png" alt="Picture">
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
           <h2 align="center">Breakfast</h2>
-            <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">8:00 - 9:30</span>
+            <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">7:30 - 9:00</span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--movie">
+        <div class="cd-timeline__img cd-timeline__img--location">
           <img src="images/schedule/friend.png" alt="Movie">
         </div> <!-- cd-timeline__img -->
 
@@ -216,7 +228,7 @@
           <h2>Discussion Session 3</h2>
           
           <div class="flex justify-between items-center">
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">9:30 - 10:45</span>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">9:00 - 10:30</span>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -227,24 +239,24 @@
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2 align = "center"> Tea Break </h2>
+          <h2 align = "center"> High Tea </h2>
 
           <div class="flex justify-between items-center">
           
-          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">10:45 - 11:30</span>
+          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">10:30 - 11:00</span>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="images/schedule/friend.png" alt="Location">
+        <div class="cd-timeline__img cd-timeline__img--movie">
+          <img src="images/schedule/mirror-ball.png" alt="Location">
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2 align = "center">Discussion Session 4 </h2>
+          <h2 align = "center">Lunch, Sightseeing and snacks with cultural night</h2>
 
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">11:30 - 12:45</span>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">After 11:00 </span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -254,23 +266,12 @@
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2 align = "center">Lunch</h2>
-          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">12:45 - 14:00</span>
+          <h2 align = "center">Dinner</h2>
+          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">21:00 - 22:30</span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--movie">
-          <img src="images/schedule/sightseeing.png" alt="Movie">
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2 align = "center">Sightseeing and Special Dinner</h2>
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">After 14:00</span>
-
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
+   
    </div>
   </section> <!-- cd-timeline -->
 
@@ -300,16 +301,16 @@
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>Discussion Session 5</h2>
+          <h2>Discussion Session 4</h2>
           
           <div class="flex justify-between items-center">
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">9:30 - 10:45</span>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">9:30 - 11:00</span>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
+        <div class="cd-timeline__img cd-timeline__img--location">
           <img src="images/schedule/food.png" alt="Picture">
         </div> <!-- cd-timeline__img -->
 
@@ -318,66 +319,78 @@
 
           <div class="flex justify-between items-center">
           
-          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">10:45 - 11:30</span>
+          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">11:00 - 11:30</span>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
+        <div class="cd-timeline__img cd-timeline__img--picture">
           <img src="images/schedule/friend.png" alt="Location">
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2 align = "center"> Discussion Session 6</h2>
+          <h2 align = "center"> Discussion Session 5</h2>
 
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">11:30 - 12:45</span>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="images/schedule/coffee-cup.png" alt="Location">
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2 align = "center">Lunch</h2>
-          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">12:45 - 14:30</span>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">11:30 - 13:00</span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--movie">
-          <img src="images/schedule/friend.png" alt="Movie">
+          <img src="images/schedule/coffee-cup.png" alt="Location">
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2 align = "center">Open Discussion</h2>
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">14:30 - 16:00</span>
-
+          <h2 align = "center">Lunch</h2>
+          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">13:00 - 14:30</span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="images/schedule/friend.png" alt="Movie">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2 align = "center">Open Discussion</h2>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">15:00 - 17:00</span>
+
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
           <img src="images/schedule/tea-cup.png" alt="Location">
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
           <h2 align = "center">High Tea</h2>
-          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">16:00 - 17:00</span>
+          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">17:00 - 18:00</span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
 
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--movie">
+          <img src="images/schedule/lock.png" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2 align = "center">Closing Ceremony</h2>
+          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">18:00 - 18:30</span>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+      
+      
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--location">
           <img src="images/schedule/serving-dish.png" alt="Location">
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2 align = "center">Dinner</h2>
-          <span class="cd-timeline__date" style = "display: flex; justify-content: flex-end !important; font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">20:30 - 22:00</span>
+          <h2 align = "center">Director's Dinner</h2>
+          <span class="cd-timeline__date" style = "display: flex;font-size: 1.4rem; font-weight:bolder;margin-top: -0.4rem !important; ">After 19:00</span>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 

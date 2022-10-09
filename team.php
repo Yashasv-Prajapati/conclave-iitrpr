@@ -645,7 +645,7 @@
 				<div class="col-md-3 col-6">
 					<div class="our-team">
 						<div class="pic">
-							<img src='./images/kirti.jpg' alt="">
+							<img src='./images/kirti.jpeg' alt="">
 							<div class='hidden-contact'>
 								<!--<i class="fa fa-envelope" aria-hidden='true'></i><br>2020eeb1257@iitrpr.ac.in<br>-->
 							</div>	

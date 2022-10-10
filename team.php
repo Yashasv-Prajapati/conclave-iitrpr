@@ -527,19 +527,6 @@
 				<div class="col-md-3 col-6">
 					<div class="our-team">
 						<div class="pic">
-							<img src='./images/rahul.png' alt="">
-							<div class='hidden-contact'>
-								<i class="fa fa-envelope" aria-hidden='true'></i><br>2020mcb1244@iitrpr.ac.in<br>
-							</div>	
-						</div>
-						<div class='detail'>
-							<div class='title'>Rahul</div>							
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-6">
-					<div class="our-team">
-						<div class="pic">
 							<img src='./images/manan.png' alt="">
 							<div class='hidden-contact'>
 								<i class="fa fa-envelope" aria-hidden='true'></i><br>2021eeb1186@iitrpr.ac.in<br>
